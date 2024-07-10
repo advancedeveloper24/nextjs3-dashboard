@@ -23,7 +23,8 @@ export default function Page() {
           <div className={styles.user}>
             <Image src="/4.png" alt="user" width={30} height={20} />
             <span>$0.00</span>
-            <Image src="/12.png" alt="cart" width={30} height={20} />
+            <Image src="/9.png" alt="cart" width={30} height={20} />
+            <span>Express</span>
           </div>
         </div>
         <div className={styles.navList}>
@@ -36,7 +37,7 @@ export default function Page() {
             <p>Products</p>
           </div>
           <div>
-            <Image src="/8.png" alt="menu" width={50} height={50} />
+            <Image src="/7.png" alt="menu" width={70} height={60} />
             <p>Pricing</p>
           </div>
           <div>
@@ -44,7 +45,7 @@ export default function Page() {
             <p>Blog</p>
           </div>
           <div>
-            <Image src="/12.png" alt="menu" width={50} height={50} />
+            <Image src="/5.png" alt="menu" width={70} height={50} />
             <p>Sales</p>
           </div>
           <div>
